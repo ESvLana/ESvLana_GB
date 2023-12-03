@@ -1,4 +1,4 @@
-# Инструкция для работы в Markdown
+# Личная инструкция для работы в Markdown
 
 ## Выделение текста
 
@@ -97,7 +97,7 @@ __Пример текста 2__
 >>
 >>>Вложенные одна в другую
 
-### Теперь пробуем вставить [код](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lppm9ax6v0187933958#stk-18)
+### Теперь пробуем вставить [код](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lppm9ax6v0187933958#stk-18).
 
 В Markdown есть несколько способов выделить исходный код:
 
